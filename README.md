@@ -1,5 +1,8 @@
 # 20200711.
-Testando nova plataforma da microsoft - Codespaces
+Testando Nova Plataforma da Microsoft - Codespaces
+
+# Servidor Alocado, descrições.
+
 
 # Adicionando um teste de APP com Node.
 Por está razão o nome da Cloud-Hosted
